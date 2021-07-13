@@ -23,6 +23,8 @@ public class Main {
         go.displayInfo();
         Language english = new Language();
         english.displayInfo();
+        React react = new React();
+        react.displayInfo();
         System.out.println();
     }
 
